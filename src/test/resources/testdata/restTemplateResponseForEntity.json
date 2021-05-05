@@ -1,0 +1,236 @@
+{
+	"headers": {
+		"X-RateLimit-Limit": ["60"],
+		"Access-Control-Expose-Headers": ["ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type"],
+		"Content-Security-Policy": ["default-src 'none'"],
+		"Status": ["200 OK"],
+		"X-RateLimit-Reset": ["1564662360"],
+		"Server": ["GitHub.com"],
+		"Date": ["Thu, 01 Aug 2019 11:26:14 GMT"],
+		"Access-Control-Allow-Origin": ["*"],
+		"Transfer-Encoding": ["chunked"],
+		"Strict-Transport-Security": ["max-age=31536000; includeSubdomains; preload"],
+		"ETag": ["W/\"867b551f3ea9930ed110a419cfe3a988\""],
+		"Vary": ["Accept", "Accept-Encoding"],
+		"X-GitHub-Request-Id": ["CF90:78C5:3CD175:492B8B:5D42CC48"],
+		"X-XSS-Protection": ["1; mode=block"],
+		"Content-Type": ["application/json; charset=utf-8"],
+		"Referrer-Policy": ["origin-when-cross-origin, strict-origin-when-cross-origin"],
+		"X-Frame-Options": ["deny"],
+		"X-Content-Type-Options": ["nosniff"],
+		"X-RateLimit-Remaining": ["49"],
+		"Cache-Control": ["public, max-age=60, s-maxage=60"],
+		"X-GitHub-Media-Type": ["github.v3"]
+	},
+	"body": [{
+		"total": 0,
+		"week": 1533427200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1534032000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1534636800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1535241600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1535846400,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1536451200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1537056000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1537660800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1538265600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1538870400,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1539475200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1540080000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1540684800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1541289600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1541894400,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1542499200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1543104000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1543708800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1544313600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1544918400,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1545523200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1546128000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1546732800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1547337600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1547942400,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1548547200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1549152000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1549756800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1550361600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1550966400,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1551571200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1552176000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1552780800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1553385600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1553990400,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1554595200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1555200000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1555804800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1556409600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 3,
+		"week": 1557014400,
+		"days": [0, 3, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1557619200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1558224000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1558828800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1559433600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1560038400,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1560643200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1561248000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1561852800,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1562457600,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1563062400,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1563667200,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}, {
+		"total": 0,
+		"week": 1564272000,
+		"days": [0, 0, 0, 0, 0, 0, 0]
+	}],
+	"statusCode": "OK",
+	"statusCodeValue": 200
+}
